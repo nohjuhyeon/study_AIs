@@ -1,5 +1,8 @@
 # study_AIs
 ## Macchine Learning
+<details open>
+<summary></summary>
+ 
 ### Clustering
 <details open>
 <summary></summary>
@@ -23,7 +26,7 @@
 |5|[Regression : MSE](docs/MLs/Regression/05_BreastCancerWisconsin_LinearRegression_evaluation.ipynb)|mean_squared_error 사용하여 모델의 에러율 확인하기|mean_squared_error()|
 </details>
 
- <h2>Classifications</h2>
+### Classifications
 <details open>
 <summary></summary>
 
@@ -45,6 +48,8 @@
 |3|[Feature Engineering : Sampling](docs/MLs/Feature_Engineering/03_iris_samplings.ipynb)|범주형 데이터 resampling하기|over sampling : SMOTE<br>under sampling : NearMiss<br>Combine sampling : SMOTEENN|
 </details>
 
+</details>
+
 ## Natural Language Processing
 <details open>
 <summary></summary>
@@ -59,7 +64,7 @@
 |6|[NLP : Mecab](docs/NLPs/06_wordcloud_korean_mecab.ipynb)|자연어에서 Mecab으로 명사만 추출하기|mecab.nouns()|
 |7|[NLP : tokenizer](docs/NLPs/07_wordcloud_korean_tokenizers.ipynb)|문서 벡터화하기|TfidfVectorizer()|
 |8|[NLP : 자연어 처리](docs/NLPs/08_NLP_classification_ynanewstitles.ipynb)|ynanews 자연어 처리하기|
-
+</details>
 
 ## Numpy
 <details open>
@@ -71,6 +76,9 @@
 </details>
 
  ## Quest
+<details open>
+<summary></summary>
+ 
  ### Machine Learning
 <details open>
 <summary></summary>
@@ -98,4 +106,6 @@
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[Numpy : Array](docs/quests/Numpys/numpys.py)|Numpy의 Array 기능 활용하기|
+</details>
+
 </details>
