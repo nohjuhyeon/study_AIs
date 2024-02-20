@@ -63,7 +63,7 @@
 |5|[NLP : morphemes](docs/NLPs/05_morphemes.ipynb)|Mecab, Okt로 자연어의 형태 분류하기|konlpy.tag : Okt<br> mecab : MeCab|
 |6|[NLP : Mecab](docs/NLPs/06_wordcloud_korean_mecab.ipynb)|자연어에서 Mecab으로 명사만 추출하기|mecab.nouns()|
 |7|[NLP : tokenizer](docs/NLPs/07_wordcloud_korean_tokenizers.ipynb)|문서 벡터화하기|TfidfVectorizer()|
-|8|[NLP : 자연어 처리](docs/NLPs/08_NLP_classification_ynanewstitles.ipynb)|ynanews 자연어 처리하기|
+|8|[NLP : Machine Learning](docs/NLPs/08_NLP_classification_ynanewstitles.ipynb)|ynanews 자연어 처리해서 머신 러닝으로 분류하기|
 </details>
 
 ## Numpy
