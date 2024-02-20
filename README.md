@@ -97,6 +97,9 @@
 |구분|이름|설명|비고|
 |--|--|--|--|
 |1|[Word Cloud](docs/quests/NLPs/wordcloud_regexp.ipynb)|자연어 처리하여 Word clound 만들기|
+|2|[Classification : News](docs/quests/NLPs/classification_news.ipynb)|자연어 처리하여 뉴스 토픽 별 분류하기|
+|3|[Classification : Reviews](docs/quests/NLPs/classification_movies.ipynb)|자연어 처리하여 리뷰 긍정,부정 분류하기|
+
 </details>
 
 ### Numpy
