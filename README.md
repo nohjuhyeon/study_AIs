@@ -101,7 +101,7 @@
 |2|[Classification : News](docs/quests/NLPs/classification_news.ipynb)|자연어 처리하여 뉴스 토픽 별 분류하기|
 |3|[Classification : Reviews](docs/quests/NLPs/classification_movies.ipynb)|자연어 처리하여 리뷰 긍정,부정 분류하기|
 |4|[Similiarity : complaints](docs/quests/NLPs/TDM_similiarity_seoul120.ipynb)|유사한 민원 찾기|
-
+|5|[LDA : chart](docs\quests\NLPs\LDA_seoul120.ipynb)|LDA 차트 확인하기|
 </details>
 
 ### Numpy
