@@ -104,6 +104,7 @@
 |3|[Classification : Reviews](docs/quests/NLPs/classification_movies.ipynb)|자연어 처리하여 리뷰 긍정,부정 분류하기|
 |4|[Similiarity : complaints](docs/quests/NLPs/TDM_similiarity_seoul120.ipynb)|유사한 민원 찾기|
 |5|[LDA : chart](docs\quests\NLPs\LDA_seoul120.ipynb)|LDA 차트 확인하기|
+|5|[LDA : analysis](docs\quests\NLPs\LDA_seoul120_analysis.ipynb)|LDA로 분류한 topic 분석하기|
 </details>
 
 ### Numpy
