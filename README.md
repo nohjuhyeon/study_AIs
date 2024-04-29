@@ -68,6 +68,7 @@
 |10|[LDA : chart](docs/NLPs/10_LDA_newsgroups.ipynb)|자연어 토픽별 분류 차트 확인하기|
 |11|[LDA : categories](docs/NLPs/11_LDA_shortsentences.ipynb)|자연어 토픽별로 분류하기|
 </details>
+
 ## Numpy
 <details open>
 <summary></summary>
