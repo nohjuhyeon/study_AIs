@@ -66,9 +66,8 @@
 |8|[NLP : Machine Learning](docs/NLPs/08_NLP_classification_ynanewstitles.ipynb)|ynanews 자연어 처리해서 머신 러닝으로 분류하기|
 |9|[NLP : Similarity](docs/NLPs/09_similaritys.ipynb)|유사도 확인하기|
 |10|[LDA : chart](docs/NLPs/10_LDA_newsgroups.ipynb)|자연어 토픽별 분류 차트 확인하기|
-|11|[LDA : categories](docs/NLPs/1_LDA_shortsentences.ipynb)|자연어 토픽별로 분류하기|
+|11|[LDA : categories](docs/NLPs/11_LDA_shortsentences.ipynb)|자연어 토픽별로 분류하기|
 </details>
-
 ## Numpy
 <details open>
 <summary></summary>
